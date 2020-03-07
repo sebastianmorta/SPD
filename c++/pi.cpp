@@ -42,14 +42,14 @@ int main()
             }
         }
         
-        for(int i = 1; i<n; i++)
+        for(int i = 1; i<=n; i++)
         {
-            cout<<"c ["<<i<<"]"<<c[pi[i]] = max(r[pi[i]],c[i-1])+p[i];
+            c[i]=max(r[pi[i]], c[i-1])+p[pi[i]];
         }
-        
-
-
-
+        for (int i=1; i<=n; i++)
+			cout << c[i] << " ";
+		cout << endl;
+		cout << "Cmax " << c[n] << endl;
     
     }
 }
