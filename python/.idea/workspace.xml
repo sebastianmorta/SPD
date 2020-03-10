@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca949c8d-0f8a-47d7-bcbf-967b93c26c5a" name="Default Changelist" comment="" />
+    <list default="true" id="ca949c8d-0f8a-47d7-bcbf-967b93c26c5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Jackson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jackson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jackson.py" beforeDir="false" afterPath="$PROJECT_DIR$/jackson.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YljRXOu0ViGk6M0HcJcTMBTycC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +25,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="jackson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -58,22 +71,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2027" height="309" key="GridCell.Tab.0.bottom" timestamp="1583541422026">
+    <state x="3039" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583576063880">
       <screen x="2560" y="0" width="2048" height="1122" />
     </state>
-    <state width="2027" height="309" key="GridCell.Tab.0.bottom/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583541422026" />
-    <state width="2027" height="309" key="GridCell.Tab.0.center" timestamp="1583541422026">
+    <state x="3039" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583576063880" />
+    <state x="3340" y="364" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583575623802">
       <screen x="2560" y="0" width="2048" height="1122" />
     </state>
-    <state width="2027" height="309" key="GridCell.Tab.0.center/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583541422026" />
-    <state width="2027" height="309" key="GridCell.Tab.0.left" timestamp="1583541422026">
+    <state x="3340" y="364" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583575623802" />
+    <state x="3364" y="303" key="FileChooserDialogImpl" timestamp="1583576242988">
       <screen x="2560" y="0" width="2048" height="1122" />
     </state>
-    <state width="2027" height="309" key="GridCell.Tab.0.left/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583541422026" />
-    <state width="2027" height="309" key="GridCell.Tab.0.right" timestamp="1583541422026">
+    <state x="3364" y="303" key="FileChooserDialogImpl/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583576242988" />
+    <state width="1002" height="309" key="GridCell.Tab.0.bottom" timestamp="1583576278559">
       <screen x="2560" y="0" width="2048" height="1122" />
     </state>
-    <state width="2027" height="309" key="GridCell.Tab.0.right/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583541422026" />
+    <state width="1002" height="309" key="GridCell.Tab.0.bottom/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583576278559" />
+    <state width="1002" height="309" key="GridCell.Tab.0.center" timestamp="1583576278559">
+      <screen x="2560" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1002" height="309" key="GridCell.Tab.0.center/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583576278559" />
+    <state width="1002" height="309" key="GridCell.Tab.0.left" timestamp="1583576278559">
+      <screen x="2560" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1002" height="309" key="GridCell.Tab.0.left/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583576278559" />
+    <state width="1002" height="309" key="GridCell.Tab.0.right" timestamp="1583576278559">
+      <screen x="2560" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1002" height="309" key="GridCell.Tab.0.right/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583576278559" />
+    <state x="3093" y="204" key="SettingsEditor" timestamp="1583575571900">
+      <screen x="2560" y="0" width="2048" height="1122" />
+    </state>
+    <state x="3093" y="204" key="SettingsEditor/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583575571900" />
+    <state x="3281" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1583575446398">
+      <screen x="2560" y="0" width="2048" height="1122" />
+    </state>
+    <state x="3281" y="385" key="com.intellij.ide.util.TipDialog/2560.0.2048.1122/5120.0.1920.1050/0.0.2048.1122@2560.0.2048.1122" timestamp="1583575446398" />
     <state x="3247" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1583540478230">
       <screen x="2560" y="0" width="2048" height="1122" />
     </state>
